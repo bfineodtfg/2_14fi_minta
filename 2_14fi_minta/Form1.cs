@@ -15,6 +15,7 @@ namespace _2_14fi_minta
         public Form1()
         {
             InitializeComponent();
+            int a = 8;
         }
     }
 }
