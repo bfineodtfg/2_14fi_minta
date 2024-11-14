@@ -16,6 +16,7 @@ namespace _2_14fi_minta
         {
             InitializeComponent();
             int a = 8;
+
         }
     }
 }
